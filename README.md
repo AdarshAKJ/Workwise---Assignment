@@ -1,4 +1,4 @@
-### How to Run the Code
+# How to Run the Code
 
 ## Clone the Repository
 

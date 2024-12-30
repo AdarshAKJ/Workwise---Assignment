@@ -4,7 +4,9 @@
 
 1. Open your terminal.
 2. Clone the repository by running:\
-   `git clone https://github.com/AdarshAKJ/Workwise---Assignment.git `
+   ```
+   git clone https://github.com/AdarshAKJ/Workwise---Assignment.git
+   ```
 3. Navigate into the cloned repository folder:\
    `cd Workwise---Assignment`
 

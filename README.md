@@ -38,19 +38,24 @@
 ### Backend Setup
 
 1. Open a new terminal.
-2. Navigate to the backend directory:
+2. Navigate into the cloned repository folder:
+
+   ```
+   cd Workwise---Assignment
+   ```
+3. Navigate to the backend directory:
 
    ```
    cd api
    ```
 
-3. Install the dependencies:
+4. Install the dependencies:
 
    ```
    npm install
    ```
 
-4. Start the backend server:
+5. Start the backend server:
 
    ```
    npm run dev

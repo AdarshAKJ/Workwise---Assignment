@@ -31,7 +31,7 @@ app.use('/api/user', require('./src/routes/authRoutes'));
 app.use('/api/seat', require('./src/routes/authSeats'));
 
 io.on('connection', (socket) => {
-    console.log('socket Connected');
+    // console.log('socket Connected');
     socket.on('join', (data) => {
         console.log(data);
         socket.emit('message', 'Hello');

@@ -1,6 +1,6 @@
-# How to Run the Code
+## How to Run the Code
 
-## Clone the Repository
+### Clone the Repository
 
 1. Open your terminal.
 2. Clone the repository by running:
@@ -15,7 +15,7 @@
    cd Workwise---Assignment
    ```
 
-## Frontend Setup
+### Frontend Setup
 
 1. Navigate to the frontend directory:
 
@@ -35,7 +35,7 @@
    npm run dev
    ```
 
-## Backend Setup
+### Backend Setup
 
 1. Open a new terminal.
 2. Navigate to the backend directory:
@@ -58,7 +58,7 @@
 
 Now your application should be up and running with both the frontend and backend servers. Access the frontend on your local browser, usually at http://localhost:3000. Make sure both servers are running in their respective terminals.
 
-### Tech Stack
+## Tech Stack
 
 - **Node.js**
 - **MongoDB**

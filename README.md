@@ -69,3 +69,5 @@ Now your application should be up and running with both the frontend and backend
 - **MongoDB**
 - **Next.js**
 - **Express**
+
+[How to clone](https://drive.google.com/file/d/1U8DidPBp6RGjMnadu7DQPBFe6-H_j0Ow/view?usp=sharing)
